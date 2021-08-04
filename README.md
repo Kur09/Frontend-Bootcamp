@@ -1,3 +1,2 @@
-# Fronten-bootcamp
-# Fronten-bootcamp
-# Frontend-Bootcamp
+# Frontend-bootcamp
+This is Frontend bootcamp website using Bootstrap
